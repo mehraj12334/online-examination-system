@@ -1,1 +1,1 @@
-# online-examination-system
+The ONLINE EXAMINATION SYSTEM is a web based application designed to faciliate the creation,management,and conduction of exams over the internet.This system is ideal for educational institutions ,training centers and certification authorities seeking to streamline their exaaminaion processes,enhance accessibility  and ensure integrity.
